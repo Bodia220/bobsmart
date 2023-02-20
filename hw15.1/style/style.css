@@ -1,0 +1,38 @@
+header img {
+    max-width: 70px;
+}
+header {
+    background-color: rgb(233, 227, 227);
+}
+.main-back {
+    background-color: lightblue;
+}
+main {
+    margin: 0px 30px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+footer {
+    margin: 75px 30px 0px 30px;
+    border-top: 2px solid rgb(233, 227, 227);
+    padding-top: 75px;
+}
+a {
+    text-decoration: none;
+}
+@media (max-width: 768px) {
+    .media1 {
+        justify-content: center;
+    }
+    #media2 {
+        justify-content: center;
+    }
+    .but-med {
+        text-align: center;
+    }
+    .margin-row {
+        margin: 10px 0px;
+    }
+}
